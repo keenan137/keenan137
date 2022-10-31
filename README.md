@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Keenan Du Plessis (Computer Science Graduate)
 - 👀 I’m interested in full-stack web development
 - 🌱 I’m currently learning ASP.NET Core & React.js
-- 📫 Reach me at keenan.dup137@gmail.com
+- 📫 Reach me at keenan.dup137@gmail.com or @jahkento on Instagram :)
