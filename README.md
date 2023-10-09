@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning ASP.NET Core, React.js & React-Native.
 - 📫 Reach me at keenan.dup137@gmail.com or @jahkento on Instagram :).
   
-<a href="https://www.linkedin.com/in/keenan-du-plessis-761006122/" style="margin: 0 auto;"><img src="https://github.com/keenan137/keenan137/blob/main/devcard.svg" width="400" alt="Keenan Du Plessis's Dev Card"/></a>
+<a href="https://www.linkedin.com/in/keenan-du-plessis-761006122/"><img src="https://github.com/keenan137/keenan137/blob/main/devcard.svg" width="400" alt="Keenan Du Plessis's Dev Card"/></a>
